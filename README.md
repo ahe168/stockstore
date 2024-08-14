@@ -1,2 +1,3 @@
 # stockstore
 stockstore
+ee
