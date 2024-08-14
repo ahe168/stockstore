@@ -1,0 +1,18 @@
+[
+    {
+        "src": "tushare",
+        "user": "",
+        "password": "tushare的tocken",
+        "url": "",
+        "api": "",
+        "status": 1
+    },
+    {
+        "src": "tushare",
+        "user": "3306",
+        "password": "22",
+        "url": "ahe",
+        "api": "ahe-800606",
+        "status": 0
+    }
+]

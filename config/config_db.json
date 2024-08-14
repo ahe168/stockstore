@@ -1,0 +1,29 @@
+[
+    {
+        "dbtype": "mysql",
+        "url": "localhost",
+        "port": "3306",
+        "user": "root",
+        "password": "root",
+        "database": "stock",
+        "status": 1
+    },
+    {
+        "dbtype": "sqlite",
+        "url": "image",
+        "port": "image",
+        "user": "222",
+        "password": "eee",
+        "database": "超人",
+        "status": 0
+    },
+    {
+        "dbtype": "excel",
+        "url": "image",
+        "port": "image",
+        "user": "33fdsaf",
+        "password": "超人",
+        "database": "超人",
+        "status": 0
+    }
+]

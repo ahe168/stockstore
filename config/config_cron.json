@@ -1,0 +1,10 @@
+[
+    {
+        "monthly": "*",
+        "daily": "*",
+        "house": "16,17,22",
+        "minute": "0",
+        "second": "0",
+        "status": 1
+    }
+]
